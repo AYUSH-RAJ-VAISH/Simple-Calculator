@@ -1,0 +1,23 @@
+body{
+	background-image: url(calc.jpg);
+	background-position: center;
+	overflow: hidden;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.CALCULATOR{
+			width:472px;
+			height: 400px;
+            margin: 0px auto;
+            margin-top:50px;
+            padding-top: 100px;
+            padding-left: 8px;
+            background:black;
+
+		}
+		
+.but{
+	width:90px;
+	height: 40px;
+}
